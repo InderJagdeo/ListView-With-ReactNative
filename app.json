@@ -1,0 +1,7 @@
+{
+  "name": "ReactNativeExample",
+  "displayName": "ReactNativeExample",
+  "ios": {
+    "sourceDir": "ios"
+  }
+}

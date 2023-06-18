@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Entypo.ttf",
+      "sha1": "12b5670eb178138f77285d5f2c246d3cc5fa67d6"
+    },
+    {
+      "path": "src/assets/images/marker.png",
+      "sha1": "b3f875d4aefee28eca207ad1301714e10233cf98"
+    }
+  ]
+}
