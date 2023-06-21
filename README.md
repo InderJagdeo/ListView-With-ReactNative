@@ -1,5 +1,5 @@
 # ListView-With-ReactNative
-Created a simple 'List View' example to show the list of users and their details with redux & redux-saga using type script language in React Native.
+Created a simple 'List View' example to show the list of users and their details with redux & redux-saga using Type Script language in React Native.
 
 ## Technologies used:
   1. Language: Type Script
