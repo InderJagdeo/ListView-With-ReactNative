@@ -3,7 +3,7 @@ Created a simple 'List View' example to show the list of users and their details
 
 ## Technologies used:
   1. Language: Type Script
-  2. Open Source: Redux, Git
+  2. Open Source: Redux, Redux-Saga, Git
 
 
 
