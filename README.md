@@ -6,5 +6,4 @@ Created a simple 'List View' example to show the list of users and their details
   2. Open Source: Redux, Redux-Saga, Git
 
 
-
-![ListView](https://user-images.githubusercontent.com/29178012/205894743-6966baeb-b3ac-4b05-982b-87484ef20673.svg)
+![ListView](https://github.com/InderJagdeo/ListView-With-ReactNative/assets/29178012/12487370-2880-4dde-a99c-7708633d3ab6)
